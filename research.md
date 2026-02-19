@@ -28,7 +28,8 @@ My research interest lies in macro-finance, specifically understanding how distr
 
 ### Machine Learning Project
 * *(Group Project with [Elyan Rougon](https://github.com/elyanrgn))*
-* [Insert a brief 1-sentence description of what the ML project was about, e.g., Applied machine learning algorithms to predict...]
+* Conducted a comprehensive benchmark comparing traditional macroeconometric models with modern machine learning methods to forecast French exports and imports.
+* Applied the machine learning framework of Medeiros et al. (2021) to a high-dimensional Euro Area dataset.
 * [View the code on GitHub](https://github.com/killianpzk/Forecasting_French_Imports_Exports)
 
 ### Literature Review: Loss Aversion and Collateral
