@@ -31,7 +31,7 @@ title: "CV"
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span><strong>Preparatory Classes (MPSI/PSI*)</strong>, <em>Lycée Henri Poincaré (Nancy)</em></span>
+  <span><strong>Preparatory Classes (MPSI/PSI)</strong>, <em>Lycée Henri Poincaré (Nancy)</em></span>
   <span>Sept 2020 – June 2022</span>
 </div>
 
