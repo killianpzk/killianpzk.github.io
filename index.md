@@ -1,4 +1,4 @@
-<img src="materials/photo_pliszczak.png" alt="Killian Pliszczak" width="220" align="right" style="margin-left: 20px; margin-bottom: 20px; border-radius: 8px;">
+<img src="materials/photo_pliszczak.png" alt="Killian Pliszczak" width="220" align="left" style="margin-right: 20px; margin-bottom: 20px; border-radius: 8px;">
 
 # Killian Pliszczak
 
@@ -12,6 +12,8 @@ I am currently pursuing an MRes in Economics at Institut Polytechnique de Paris 
 * **Email:** killian.pliszczak@gmail.com
 * **LinkedIn:** [linkedin.com/in/killian-pliszczak](https://www.linkedin.com/in/killian-pliszczak)
 * **GitHub:** [github.com/killianpzk](https://github.com/killianpzk)
+
+<div style="clear: both;"></div>
 
 ---
 [Research](research.md) | [Curriculum Vitae](cv.md)
