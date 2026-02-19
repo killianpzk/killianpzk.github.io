@@ -1,3 +1,7 @@
+---
+title: "Killian Pliszczak | Research"
+---
+
 # Research
 
 My research interest lies in macro-finance, specifically understanding how distributional frictions affect asset prices and market functioning, especially in short-term funding markets. I am particularly interested in settings where financial intermediaries and market institutions play a central role in shaping prices and influencing the transmission of monetary policy.
