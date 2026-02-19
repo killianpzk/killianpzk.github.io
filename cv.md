@@ -4,6 +4,9 @@ title: "CV"
 
 # Curriculum Vitae
 
+[← Back to Home](index.md)
+---
+
 ### Education
 * **MRes in Economics** | *Institut Polytechnique de Paris & HEC Paris* (2025 – 2026)
   * Research-oriented master's program. Key coursework: Banking and Financial Intermediation, Theoretical Finance, Market Microstructure, Macroeconometrics.
