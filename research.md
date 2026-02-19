@@ -12,7 +12,7 @@ My research interest lies in macro-finance, specifically understanding how distr
 ### Master Thesis: "The Impact of Interest Rate Hikes on Energy Markets"
 * Investigating the causal effect of high-frequency monetary policy shocks on future energy investments.
 * Constructing a novel dataset merging policy surprises with US interconnection queues to estimate the interest rate sensitivity of planned renewable projects, which captures forward-looking investment decisions rather than realized capacity.
-* **Supervisor:** Prof. Olivier Darmouni (HEC Paris).
+* **Supervisor:** Prof. [Olivier Darmouni](https://sites.google.com/site/olivierdarmouni/) (HEC Paris).
 
 ### Nowcasting Sovereign Bond Spreads with NLP (Ongoing)
 * *(Group Project with [Carla Lucas](https://github.com/carlalucas) & [Elyan Rougon](https://github.com/elyanrgn))*
