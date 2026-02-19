@@ -1,5 +1,5 @@
 ---
-title: "Killian Pliszczak | Home"
+title: "Home"
 ---
 
 Welcome to my personal website.
@@ -13,7 +13,6 @@ I am currently pursuing an MRes in Economics at Institut Polytechnique de Paris 
 * **LinkedIn:** [linkedin.com/in/killian-pliszczak](https://www.linkedin.com/in/killian-pliszczak)
 * **GitHub:** [github.com/killianpzk](https://github.com/killianpzk)
 
-<div style="clear: both;"></div>
 
 ---
 [Research](research.md) | [Curriculum Vitae](cv.md)
