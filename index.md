@@ -1,5 +1,3 @@
-<img src="materials/photo_pliszczak.png" alt="Killian Pliszczak" width="220" align="left" style="margin-right: 20px; margin-bottom: 20px; border-radius: 8px;">
-
 Welcome to my personal website.
 
 I am a prospective PhD student in Finance with research interests in Macro-finance, financial intermediation, and the transmission of monetary policy.
