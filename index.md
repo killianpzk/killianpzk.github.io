@@ -1,3 +1,7 @@
+---
+title: "Killian Pliszczak | Home"
+---
+
 Welcome to my personal website.
 
 I am a prospective PhD student in Finance with research interests in Macro-finance, financial intermediation, and the transmission of monetary policy.
