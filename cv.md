@@ -1,3 +1,7 @@
+---
+title: "Killian Pliszczak | CV"
+---
+
 # Curriculum Vitae
 
 ### Education
