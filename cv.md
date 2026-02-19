@@ -1,5 +1,5 @@
 ---
-title: "Killian Pliszczak | CV"
+title: "CV"
 ---
 
 # Curriculum Vitae
