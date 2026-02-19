@@ -9,7 +9,7 @@ title: "CV"
 ### Education
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span>**MRes in Economics**, *Institut Polytechnique de Paris & HEC Paris*</span>
+  <span><strong>MRes in Economics</strong>, <em>Institut Polytechnique de Paris & HEC Paris</em></span>
   <span>Sept 2025 – May 2026</span>
 </div>
 
@@ -20,7 +20,7 @@ title: "CV"
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span>**Engineering Degree**, *ENSAE Paris* (Major in Economics & Data Science)</span>
+  <span><strong>Engineering Degree</strong>, <em>ENSAE Paris</em> (Major in Economics & Data Science)</span>
   <span>Sept 2022 – June 2026</span>
 </div>
 
@@ -31,7 +31,7 @@ title: "CV"
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span>**Preparatory Classes (MPSI/PSI*)**, *Lycée Henri Poincaré (Nancy)*</span>
+  <span><strong>Preparatory Classes (MPSI/PSI*)</strong>, <em>Lycée Henri Poincaré (Nancy)</em></span>
   <span>Sept 2020 – June 2022</span>
 </div>
 
@@ -42,7 +42,7 @@ title: "CV"
 ### Professional Experience
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span>**Trainee Economic Advisor**, *Accuracy (Paris)*</span>
+  <span><strong>Trainee Economic Advisor</strong>, <em>Accuracy (Paris)</em></span>
   <span>July 2024 – Dec 2024</span>
 </div>
 
@@ -53,7 +53,7 @@ title: "CV"
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span>**Actuarial Intern**, *Forsides Consulting Group (Paris)*</span>
+  <span><strong>Actuarial Intern</strong>, <em>Forsides Consulting Group (Paris)</em></span>
   <span>June 2023 – Sept 2023</span>
 </div>
 
@@ -63,7 +63,7 @@ title: "CV"
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span>**Agricultural Worker**, *EARL Michel Remond*</span>
+  <span><strong>Agricultural Worker</strong>, <em>EARL Michel Remond</em></span>
   <span>Summers 2017 – 2019</span>
 </div>
 
@@ -74,7 +74,7 @@ title: "CV"
 ### Leadership & Military Service
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <span>**Officer Trainee**, *French Army*</span>
+  <span><strong>Officer Trainee</strong>, <em>French Army</em></span>
   <span>Jan 2025 – July 2025</span>
 </div>
 
